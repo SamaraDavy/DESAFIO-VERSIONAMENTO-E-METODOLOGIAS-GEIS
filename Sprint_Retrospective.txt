@@ -1,0 +1,5 @@
+Sprint Retrospective
+
+1. O que funcionou bem: A utilização dos comandos do Git, a criação das branches (ramificações) e as alterações do código HTML no editor.
+2. O que não funcionou bem: Ocorreu um pequeno erro de ligação à internet durante o comando "push" e um aviso de "detached HEAD" ao trocar de branch.
+3. Sugestões de melhoria: Ter mais atenção aos nomes das branches ao executar o comando "checkout" e verificar a ligação de rede antes de enviar os ficheiros para o servidor remoto.

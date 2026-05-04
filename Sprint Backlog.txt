@@ -1,0 +1,5 @@
+Sprint Backlog
+
+Histórias selecionadas para esta Sprint:
+- ID 1: Alteração da cor dos veículos no index.html. (Esforço estimado: 2 horas)
+- ID 3: Atualização das descrições dos links no contato.html. (Esforço estimado: 1 hora)
